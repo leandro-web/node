@@ -1,0 +1,7 @@
+{
+  "name": "frontend-placeholder",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node -e \"console.log('frontend placeholder'); setInterval(()=>{}, 100000)\""
+  }
+}
